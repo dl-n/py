@@ -1,0 +1,374 @@
+{
+"pycourses":[
+    {
+      "id":1,
+      "basename":"Python",
+      "cname":"Basics of Py2",
+      "url":"https://i.ibb.co/jJ2wD3V/py1.png",
+      "content":"content of basics of Py2",
+
+      "outlet":[
+        {
+          "topic":"Python Training Overview"
+        },
+        {
+          "topic":"Introduction to Languages"
+        },
+        {
+          "topic":"Introduction to Python"
+        },
+        {
+          "topic":"Python Language Fundamentals"
+        },
+        {
+          "topic":"Difference of Python Version 2.0 and 3.0"
+        },
+        {
+          "topic":"Different Modes of Python py3 vs py2"
+        },
+        {
+          "topic":"Python Variables and datatypes"
+        },
+        {
+          "topic":"Input & Output Operators"
+        },
+        {
+          "topic":"Types of Operators and Identifiers"
+        },
+        {
+          "topic":"Data Structures or Collections"
+        },
+        {
+          "topic":"Collections in Python and It Types"
+        },
+        {
+          "topic":"List Collection and Tuple Collection"
+        },
+        {
+          "topic":"Set Collection and Dictionary Collection"
+        },
+        {
+          "topic":"Functions and Python Modules"
+        },
+        {
+          "topic":"Conclusion with Future Scope"
+        }
+      ],
+      "prerequisite":[
+        {
+          "pre":"A desktop or PC with required software to be installed"
+        }
+      ]
+    },
+    {
+      "id":2,
+      "basename":"Python",
+      "cname":"Basics of Py3",
+      "url":"https://i.ibb.co/C1v0Q3k/py3.jpg",
+      "content":"content of Basics of Py3",
+
+      "outlet":[
+        {
+          "topic":"Python Training Overview"
+        },
+        {
+          "topic":"Introduction to Languages"
+        },
+        {
+          "topic":"Introduction to Python"
+        },
+        {
+          "topic":"Python Language Fundamentals"
+        },
+        {
+          "topic":"Difference of Python Version 2.0 and 3.0"
+        },
+        {
+          "topic":"Different Modes of Python py3 vs py2"
+        },
+        {
+          "topic":"Python Variables and datatypes"
+        },
+        {
+          "topic":"Input & Output Operators"
+        },
+        {
+          "topic":"Types of Operators and Identifiers"
+        },
+        {
+          "topic":"Data Structures or Collections"
+        },
+        {
+          "topic":"Collections in Python and It Types"
+        },
+        {
+          "topic":"List Collection and Tuple Collection"
+        },
+        {
+          "topic":"Set Collection and Dictionary Collection"
+        },
+        {
+          "topic":"Functions and Python Modules"
+        },
+        {
+          "topic":"Conclusion with Future Scope"
+        }
+      ],
+      "prerequisite":[
+        {
+          "pre":"A desktop or PC with required software to be installed"
+        }
+      ]
+    },
+    {
+      "id":3,
+      "basename":"Python",
+      "cname":"Py2 vs Py3",
+      "url":"https://i.ibb.co/TPZbGc6/py4.png",
+      "content":"content of Py2 vs Py3",
+
+      "outlet":[
+        {
+          "topic":"Python Training Overview"
+        },
+        {
+          "topic":"Introduction to Languages"
+        },
+        {
+          "topic":"Introduction to Python"
+        },
+        {
+          "topic":"Python Language Fundamentals"
+        },
+        {
+          "topic":"Difference of Python Version 2.0 and 3.0"
+        },
+        {
+          "topic":"Different Modes of Python py3 vs py2"
+        },
+        {
+          "topic":"Python Variables and datatypes"
+        },
+        {
+          "topic":"Input & Output Operators"
+        },
+        {
+          "topic":"Types of Operators and Identifiers"
+        },
+        {
+          "topic":"Data Structures or Collections"
+        },
+        {
+          "topic":"Collections in Python and It Types"
+        },
+        {
+          "topic":"List Collection and Tuple Collection"
+        },
+        {
+          "topic":"Set Collection and Dictionary Collection"
+        },
+        {
+          "topic":"Functions and Python Modules"
+        },
+        {
+          "topic":"Conclusion with Future Scope"
+        }
+      ],
+      "prerequisite":[
+        {
+          "pre":"A desktop or PC with required software to be installed"
+        }
+      ]
+    },
+    {
+      "id":4,
+      "basename":"Python",
+      "cname":"Core Python",
+      "url":"https://i.ibb.co/Ms13Szs/py5.jpg",
+      "content":"content of Core Python",
+
+      "outlet":[
+        {
+          "topic":"Python Training Overview"
+        },
+        {
+          "topic":"Introduction to Languages"
+        },
+        {
+          "topic":"Introduction to Python"
+        },
+        {
+          "topic":"Python Language Fundamentals"
+        },
+        {
+          "topic":"Difference of Python Version 2.0 and 3.0"
+        },
+        {
+          "topic":"Different Modes of Python py3 vs py2"
+        },
+        {
+          "topic":"Python Variables and datatypes"
+        },
+        {
+          "topic":"Input & Output Operators"
+        },
+        {
+          "topic":"Types of Operators and Identifiers"
+        },
+        {
+          "topic":"Data Structures or Collections"
+        },
+        {
+          "topic":"Collections in Python and It Types"
+        },
+        {
+          "topic":"List Collection and Tuple Collection"
+        },
+        {
+          "topic":"Set Collection and Dictionary Collection"
+        },
+        {
+          "topic":"Functions and Python Modules"
+        },
+        {
+          "topic":"Conclusion with Future Scope"
+        }
+      ],
+      "prerequisite":[
+        {
+          "pre":"A desktop or PC with required software to be installed"
+        },
+        {
+          "pre":"And required basic knowledge to undrestand syntax"
+        }
+      ]
+    },
+    {
+      "id":5,
+      "basename":"Python",
+      "cname":"Advance Python",
+      "url":"https://i.ibb.co/687mFHJ/py6.jpg",
+      "content":"content of Advance Python",
+
+      "outlet":[
+        {
+          "topic":"Python Training Overview"
+        },
+        {
+          "topic":"Introduction to Languages"
+        },
+        {
+          "topic":"Introduction to Python"
+        },
+        {
+          "topic":"Python Language Fundamentals"
+        },
+        {
+          "topic":"Difference of Python Version 2.0 and 3.0"
+        },
+        {
+          "topic":"Different Modes of Python py3 vs py2"
+        },
+        {
+          "topic":"Python Variables and datatypes"
+        },
+        {
+          "topic":"Input & Output Operators"
+        },
+        {
+          "topic":"Types of Operators and Identifiers"
+        },
+        {
+          "topic":"Data Structures or Collections"
+        },
+        {
+          "topic":"Collections in Python and It Types"
+        },
+        {
+          "topic":"List Collection and Tuple Collection"
+        },
+        {
+          "topic":"Set Collection and Dictionary Collection"
+        },
+        {
+          "topic":"Functions and Python Modules"
+        },
+        {
+          "topic":"Conclusion with Future Scope"
+        }
+      ],
+      "prerequisite":[
+        {
+          "pre":"A desktop or PC with required software to be installed"
+        },
+        {
+          "pre":"And required basic knowledge to undrestand syntax"
+        }
+      ]
+    },
+    {
+      "id":6,
+      "basename":"Python",
+      "cname":"Python Framework",
+      "url":"https://i.ibb.co/GFWkDk4/py7.png",
+      "content":"content of Python Framework",
+
+      "outlet":[
+        {
+          "topic":"Python Training Overview"
+        },
+        {
+          "topic":"Introduction to Languages"
+        },
+        {
+          "topic":"Introduction to Python"
+        },
+        {
+          "topic":"Python Language Fundamentals"
+        },
+        {
+          "topic":"Difference of Python Version 2.0 and 3.0"
+        },
+        {
+          "topic":"Different Modes of Python py3 vs py2"
+        },
+        {
+          "topic":"Python Variables and datatypes"
+        },
+        {
+          "topic":"Input & Output Operators"
+        },
+        {
+          "topic":"Types of Operators and Identifiers"
+        },
+        {
+          "topic":"Data Structures or Collections"
+        },
+        {
+          "topic":"Collections in Python and It Types"
+        },
+        {
+          "topic":"List Collection and Tuple Collection"
+        },
+        {
+          "topic":"Set Collection and Dictionary Collection"
+        },
+        {
+          "topic":"Functions and Python Modules"
+        },
+        {
+          "topic":"Conclusion with Future Scope"
+        }
+      ],
+      "prerequisite":[
+        {
+          "pre":"A desktop or PC with required software to be installed"
+        },
+        {
+          "pre":"And required basic knowledge to undrestand syntax"
+        }
+      ]
+    }
+    
+  ]
+}
