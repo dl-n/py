@@ -47,26 +47,6 @@
         {
             "key":1.10,
           "topic":"Data Structures or Collections"
-        },
-        {
-            "key":1.11,
-          "topic":"Collections in Python and It Types"
-        },
-        {
-            "key":1.12,
-          "topic":"List Collection and Tuple Collection"
-        },
-        {
-            "key":1.13,
-          "topic":"Set Collection and Dictionary Collection"
-        },
-        {
-            "key":1.14,
-          "topic":"Functions and Python Modules"
-        },
-        {
-            "key":1.15,
-          "topic":"Conclusion with Future Scope"
         }
       ],
       "prerequisite":[
@@ -125,26 +105,6 @@
         {
             "key":2.10,
           "topic":"Data Structures or Collections"
-        },
-        {
-            "key":2.11,
-          "topic":"Collections in Python and It Types"
-        },
-        {
-            "key":2.12,
-          "topic":"List Collection and Tuple Collection"
-        },
-        {
-            "key":2.13,
-          "topic":"Set Collection and Dictionary Collection"
-        },
-        {
-            "key":2.14,
-          "topic":"Functions and Python Modules"
-        },
-        {
-            "key":2.15,
-          "topic":"Conclusion with Future Scope"
         }
       ],
       "prerequisite":[
@@ -202,26 +162,6 @@
         {
             "key":3.10,
           "topic":"Data Structures or Collections"
-        },
-        {
-            "key":3.11,
-          "topic":"Collections in Python and It Types"
-        },
-        {
-            "key":3.12,
-          "topic":"List Collection and Tuple Collection"
-        },
-        {
-            "key":3.13,
-          "topic":"Set Collection and Dictionary Collection"
-        },
-        {
-            "key":3.14,
-          "topic":"Functions and Python Modules"
-        },
-        {
-            "key":3.15,
-          "topic":"Conclusion with Future Scope"
         }
       ],
       "prerequisite":[
@@ -279,26 +219,6 @@
         {
             "key":4.10,
           "topic":"Data Structures or Collections"
-        },
-        {
-            "key":4.11,
-          "topic":"Collections in Python and It Types"
-        },
-        {
-            "key":4.12,
-          "topic":"List Collection and Tuple Collection"
-        },
-        {
-            "key":4.13,
-          "topic":"Set Collection and Dictionary Collection"
-        },
-        {
-            "key":4.14,
-          "topic":"Functions and Python Modules"
-        },
-        {
-            "key":4.15,
-          "topic":"Conclusion with Future Scope"
         }
       ],
       "prerequisite":[
@@ -357,26 +277,6 @@
         },
         {
             "key":5.10,
-          "topic":"Data Structures or Collections"
-        },
-        {
-            "key":5.11,
-          "topic":"Collections in Python and It Types"
-        },
-        {
-            "key":5.12,
-          "topic":"List Collection and Tuple Collection"
-        },
-        {
-            "key":5.13,
-          "topic":"Set Collection and Dictionary Collection"
-        },
-        {
-            "key":5.14,
-          "topic":"Functions and Python Modules"
-        },
-        {
-            "key":5.15,
           "topic":"Conclusion with Future Scope"
         }
       ],
@@ -437,26 +337,6 @@
         {
             "key":6.10,
           "topic":"Data Structures or Collections"
-        },
-        {
-            "key":6.11,
-          "topic":"Collections in Python and It Types"
-        },
-        {
-            "key":6.12,
-          "topic":"List Collection and Tuple Collection"
-        },
-        {
-            "key":6.13,
-          "topic":"Set Collection and Dictionary Collection"
-        },
-        {
-            "key":6.14,
-          "topic":"Functions and Python Modules"
-        },
-        {
-            "key":6.15,
-          "topic":"Conclusion with Future Scope"
         }
       ],
       "prerequisite":[
