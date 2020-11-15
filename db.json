@@ -10,43 +10,43 @@
       "outlet":[
         {
             "key":1.1,
-          "topic":"Python Training Overview"
+          "topic":"Python Training Overview","fav":false
         },
         {
             "key":1.2,
-          "topic":"Introduction to Languages"
+          "topic":"Introduction to Languages","fav":false
         },
         {
             "key":1.3,
-          "topic":"Introduction to Python"
+          "topic":"Introduction to Python","fav":false
         },
         {
             "key":1.4,
-          "topic":"Python Language Fundamentals"
+          "topic":"Python Language Fundamentals","fav":false
         },
         {
             "key":1.5,
-          "topic":"Difference of Python Version 2.0 and 3.0"
+          "topic":"Difference of Python Version 2.0 and 3.0","fav":false
         },
         {
             "key":1.6,
-          "topic":"Different Modes of Python py3 vs py2"
+          "topic":"Different Modes of Python py3 vs py2","fav":false
         },
         {
             "key":1.7,
-          "topic":"Python Variables and datatypes"
+          "topic":"Python Variables and datatypes","fav":false
         },
         {
             "key":1.8,
-          "topic":"Input & Output Operators"
+          "topic":"Input & Output Operators","fav":false
         },
         {
             "key":1.9,
-          "topic":"Types of Operators and Identifiers"
+          "topic":"Types of Operators and Identifiers","fav":false
         },
         {
             "key":1.11,
-          "topic":"Data Structures or Collections"
+          "topic":"Data Structures or Collections","fav":false
         }
       ],
       "prerequisite":[
@@ -68,43 +68,43 @@
       "outlet":[
         {
             "key":2.1,
-          "topic":"Python Training Overview"
+          "topic":"Python Training Overview","fav":false
         },
         {
             "key":2.2,
-          "topic":"Introduction to Languages"
+          "topic":"Introduction to Languages","fav":false
         },
         {
             "key":2.3,
-          "topic":"Introduction to Python"
+          "topic":"Introduction to Python","fav":false
         },
         {
             "key":2.4,
-          "topic":"Python Language Fundamentals"
+          "topic":"Python Language Fundamentals","fav":false
         },
         {
             "key":2.5,
-          "topic":"Difference of Python Version 2.0 and 3.0"
+          "topic":"Difference of Python Version 2.0 and 3.0","fav":false
         },
         {
             "key":2.6,
-          "topic":"Different Modes of Python py3 vs py2"
+          "topic":"Different Modes of Python py3 vs py2","fav":false
         },
         {
             "key":2.7,
-          "topic":"Python Variables and datatypes"
+          "topic":"Python Variables and datatypes","fav":false
         },
         {
             "key":2.8,
-          "topic":"Input & Output Operators"
+          "topic":"Input & Output Operators","fav":false
         },
         {
             "key":2.9,
-          "topic":"Types of Operators and Identifiers"
+          "topic":"Types of Operators and Identifiers","fav":false
         },
         {
             "key":2.11,
-          "topic":"Data Structures or Collections"
+          "topic":"Data Structures or Collections","fav":false
         }
       ],
       "prerequisite":[
@@ -125,43 +125,43 @@
       "outlet":[
         {
             "key":3.1,
-          "topic":"Python Training Overview"
+          "topic":"Python Training Overview","fav":false
         },
         {
             "key":3.2,
-          "topic":"Introduction to Languages"
+          "topic":"Introduction to Languages","fav":false
         },
         {
             "key":3.3,
-          "topic":"Introduction to Python"
+          "topic":"Introduction to Python","fav":false
         },
         {
             "key":3.4,
-          "topic":"Python Language Fundamentals"
+          "topic":"Python Language Fundamentals","fav":false
         },
         {
             "key":3.5,
-          "topic":"Difference of Python Version 2.0 and 3.0"
+          "topic":"Difference of Python Version 2.0 and 3.0","fav":false
         },
         {
             "key":3.6,
-          "topic":"Different Modes of Python py3 vs py2"
+          "topic":"Different Modes of Python py3 vs py2","fav":false
         },
         {
             "key":3.7,
-          "topic":"Python Variables and datatypes"
+          "topic":"Python Variables and datatypes","fav":false
         },
         {
             "key":3.8,
-          "topic":"Input & Output Operators"
+          "topic":"Input & Output Operators","fav":false
         },
         {
             "key":3.9,
-          "topic":"Types of Operators and Identifiers"
+          "topic":"Types of Operators and Identifiers","fav":false
         },
         {
             "key":3.11,
-          "topic":"Data Structures or Collections"
+          "topic":"Data Structures or Collections","fav":false
         }
       ],
       "prerequisite":[
@@ -182,43 +182,43 @@
       "outlet":[
         {
             "key":4.1,
-          "topic":"Python Training Overview"
+          "topic":"Python Training Overview","fav":false
         },
         {
             "key":4.2,
-          "topic":"Introduction to Languages"
+          "topic":"Introduction to Languages","fav":false
         },
         {
             "key":4.3,
-          "topic":"Introduction to Python"
+          "topic":"Introduction to Python","fav":false
         },
         {
             "key":4.4,
-          "topic":"Python Language Fundamentals"
+          "topic":"Python Language Fundamentals","fav":false
         },
         {
             "key":4.5,
-          "topic":"Difference of Python Version 2.0 and 3.0"
+          "topic":"Difference of Python Version 2.0 and 3.0","fav":false
         },
         {
             "key":4.6,
-          "topic":"Different Modes of Python py3 vs py2"
+          "topic":"Different Modes of Python py3 vs py2","fav":false
         },
         {
             "key":4.7,
-          "topic":"Python Variables and datatypes"
+          "topic":"Python Variables and datatypes","fav":false
         },
         {
             "key":4.8,
-          "topic":"Input & Output Operators"
+          "topic":"Input & Output Operators","fav":false
         },
         {
             "key":4.9,
-          "topic":"Types of Operators and Identifiers"
+          "topic":"Types of Operators and Identifiers","fav":false
         },
         {
             "key":4.11,
-          "topic":"Data Structures or Collections"
+          "topic":"Data Structures or Collections","fav":false
         }
       ],
       "prerequisite":[
@@ -241,43 +241,43 @@
       "outlet":[
         {
             "key":5.1,
-          "topic":"Python Training Overview"
+          "topic":"Python Training Overview","fav":false
         },
         {
             "key":5.2,
-          "topic":"Introduction to Languages"
+          "topic":"Introduction to Languages","fav":false
         },
         {
             "key":5.3,
-          "topic":"Introduction to Python"
+          "topic":"Introduction to Python","fav":false
         },
         {
             "key":5.4,
-          "topic":"Python Language Fundamentals"
+          "topic":"Python Language Fundamentals","fav":false
         },
         {
             "key":5.5,
-          "topic":"Difference of Python Version 2.0 and 3.0"
+          "topic":"Difference of Python Version 2.0 and 3.0","fav":false
         },
         {
             "key":5.6,
-          "topic":"Different Modes of Python py3 vs py2"
+          "topic":"Different Modes of Python py3 vs py2","fav":false
         },
         {
             "key":5.7,
-          "topic":"Python Variables and datatypes"
+          "topic":"Python Variables and datatypes","fav":false
         },
         {
             "key":5.8,
-          "topic":"Input & Output Operators"
+          "topic":"Input & Output Operators","fav":false
         },
         {
             "key":5.9,
-          "topic":"Types of Operators and Identifiers"
+          "topic":"Types of Operators and Identifiers","fav":false
         },
         {
             "key":5.11,
-          "topic":"Conclusion with Future Scope"
+          "topic":"Conclusion with Future Scope","fav":false
         }
       ],
       "prerequisite":[
@@ -300,43 +300,43 @@
       "outlet":[
         {
             "key":6.1,
-          "topic":"Python Training Overview"
+          "topic":"Python Training Overview","fav":false
         },
         {
             "key":6.2,
-          "topic":"Introduction to Languages"
+          "topic":"Introduction to Languages","fav":false
         },
         {
             "key":6.3,
-          "topic":"Introduction to Python"
+          "topic":"Introduction to Python","fav":false
         },
         {
             "key":6.4,
-          "topic":"Python Language Fundamentals"
+          "topic":"Python Language Fundamentals","fav":false
         },
         {
             "key":6.5,
-          "topic":"Difference of Python Version 2.0 and 3.0"
+          "topic":"Difference of Python Version 2.0 and 3.0","fav":false
         },
         {
             "key":6.6,
-          "topic":"Different Modes of Python py3 vs py2"
+          "topic":"Different Modes of Python py3 vs py2","fav":false
         },
         {
             "key":6.7,
-          "topic":"Python Variables and datatypes"
+          "topic":"Python Variables and datatypes","fav":false
         },
         {
             "key":6.8,
-          "topic":"Input & Output Operators"
+          "topic":"Input & Output Operators","fav":false
         },
         {
             "key":6.9,
-          "topic":"Types of Operators and Identifiers"
+          "topic":"Types of Operators and Identifiers","fav":false
         },
         {
             "key":6.11,
-          "topic":"Data Structures or Collections"
+          "topic":"Data Structures or Collections","fav":false
         }
       ],
       "prerequisite":[
