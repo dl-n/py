@@ -58,7 +58,9 @@
         {
           "pre":"A desktop or PC with required software to be installed"
         }
-      ]
+      ],
+    "fav":false
+        
     },
     {
       "id":2,
@@ -118,7 +120,8 @@
         {
           "pre":"A desktop or PC with required software to be installed"
         }
-      ]
+      ],
+    "fav":false
     },
     {
       "id":3,
@@ -178,7 +181,8 @@
         {
           "pre":"A desktop or PC with required software to be installed"
         }
-      ]
+      ],
+    "fav":false
     },
     {
       "id":4,
@@ -241,7 +245,8 @@
         {
           "pre":"And required basic knowledge on python to undrestand syntax"
         }
-      ]
+      ],
+    "fav":false
     },
     {
       "id":5,
@@ -304,7 +309,8 @@
         {
           "pre":"And required basic knowledge on python to undrestand syntax"
         }
-      ]
+      ],
+    "fav":false
     },
     {
       "id":6,
@@ -367,7 +373,8 @@
         {
           "pre":"And required basic knowledge on python to undrestand syntax"
         }
-      ]
+      ],
+    "fav":false
     }
     
   ]
