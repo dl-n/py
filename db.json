@@ -4,7 +4,7 @@
       "id":1,
       "basename":"Python",
       "cname":"Basics of Py2",
-      "url":"https://i.ibb.co/jJ2wD3V/py1.png",
+      "url":"./images/py1.png",
       "content":"content of basics of Py2",
 
       "outlet":[
@@ -61,7 +61,7 @@
       "id":2,
       "basename":"Python",
       "cname":"Basics of Py3",
-      "url":"https://i.ibb.co/C1v0Q3k/py3.jpg",
+      "url":"./images/py2.jpg",
       "content":"content of Basics of Py3",
 
      
@@ -118,7 +118,7 @@
       "id":3,
       "basename":"Python",
       "cname":"Py2 vs Py3",
-      "url":"https://i.ibb.co/TPZbGc6/py4.png",
+      "url":"./images/py3.jpg",
       "content":"content of Py2 vs Py3",
 
     
@@ -175,7 +175,7 @@
       "id":4,
       "basename":"Python",
       "cname":"Core Python",
-      "url":"https://i.ibb.co/Ms13Szs/py5.jpg",
+      "url":"./images/py4.png",
       "content":"content of Core Python",
 
       
@@ -235,7 +235,7 @@
       "id":5,
       "basename":"Python",
       "cname":"Advance Python",
-      "url":"https://i.ibb.co/687mFHJ/py6.jpg",
+      "url":"./images/py5.jpg",
       "content":"content of Advance Python",
      
       "outlet":[
@@ -294,7 +294,7 @@
       "id":6,
       "basename":"Python",
       "cname":"Python Framework",
-      "url":"https://i.ibb.co/GFWkDk4/py7.png",
+      "url":"./images/py6.png",
       "content":"content of Python Framework",
 
       "outlet":[
